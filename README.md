@@ -106,3 +106,8 @@ Length of the generated initials. Default: 2
     https://....com/?name=John Doe&background=fff&color=F80000&format=svg&bold=true&font-size=0.7&size=125&length=1
 
 ```
+
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
