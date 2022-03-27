@@ -3,7 +3,6 @@ module github.com/ferdiunal/avatars
 go 1.17
 
 require (
-	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/fogleman/gg v1.3.0 // indirect
 	github.com/gofiber/fiber/v2 v2.30.0 // indirect
